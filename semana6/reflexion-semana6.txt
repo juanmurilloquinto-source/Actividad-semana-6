@@ -1,0 +1,8 @@
+Es importante que las plataformas reciban reportes estructurados porque facilita el procesamiento automático de la información. 
+Si los datos vienen con un formato claro como JSON, el servidor puede leerlos sin confusión usando req.body.
+Esto reduce errores humanos al registrar incidentes, nombres o mensajes.
+Además permite filtrar, buscar y organizar los reportes de miles de ciudadanos rápidamente.
+Sin estructura sería difícil saber qué dato es el nombre y cuál es el mensaje.
+También mejora la velocidad de respuesta ante emergencias o problemas reportados.
+Un formato estándar ayuda a conectar la plataforma con otras bases de datos o sistemas.
+Por eso usar JSON y campos definidos es clave para que la tecnología sea útil y confiable.
